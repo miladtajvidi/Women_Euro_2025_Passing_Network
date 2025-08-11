@@ -4,7 +4,7 @@
 
 # UEFA Women's Euro 2025 Passing Network 
 
-This project provides a clear, reproducible workflow for visualizing football passing networks using open StatsBomb data, with a focus on the UEFA Women's Euro 2025. The main goal is to generate insightful, hudle-like passing network diagrams for any match in the dataset, using a modular and minimalistic approach.
+This project provides a clear, reproducible workflow for visualizing football passing networks using open StatsBomb data, with a focus on the UEFA Women's Euro 2025. The main goal is to generate insightful, hudle-like passing network diagrams for any match in the dataset, using a modular and minimalistic approach. You can also watch a short explanation video regarding some points at https://youtu.be/_dMZ8GOmWI4.
 
 ## What We Do
 
