@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="fig1.png" alt="Passing Network Example" width="700"/>
+  <img src="./Fig_1.png" alt="Passing Network Example" width="700"/>
 </p>
 
-# UEFA Women's Euro 2025 Passing Network Visualization
+# UEFA Women's Euro 2025 Passing Network 
 
-This project provides a clear, reproducible workflow for visualizing football passing networks using open StatsBomb data, with a focus on the UEFA Women's Euro 2025. The main goal is to generate insightful, publication-quality passing network diagrams for any match in the dataset, using a modular and minimalistic approach.
+This project provides a clear, reproducible workflow for visualizing football passing networks using open StatsBomb data, with a focus on the UEFA Women's Euro 2025. The main goal is to generate insightful, hudle-like passing network diagrams for any match in the dataset, using a modular and minimalistic approach.
 
 ## What We Do
 
@@ -19,11 +19,10 @@ This project provides a clear, reproducible workflow for visualizing football pa
 ## How to Use
 
 1. **Install Requirements:**  
-	Install dependencies from `requirements.txt` (see the relevant folder).
+	Install dependencies from `requirements.txt`
 2. **Run the Script:**  
 	Edit the parameters at the top of the main script to select your match, then run the script to generate the plot.
 3. **Customize:**  
 	Adjust the templates to analyze different matches or competitions as needed.
 
 ---
-# Women_Euro_2025_Passing_Network
