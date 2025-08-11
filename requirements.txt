@@ -1,0 +1,6 @@
+statsbombpy
+pandas
+mplsoccer
+highlight_text
+seaborn
+matplotlib
